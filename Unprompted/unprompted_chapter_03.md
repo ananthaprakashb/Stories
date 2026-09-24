@@ -19,6 +19,10 @@ themes:
   - surveillance
   - learned helplessness
 status: "draft"
+subtitle: "San Ramon, California · 8:03 AM"
+mood: "night"
+scene: "San Ramon, California"
+artwork: "Unprompted.png"
 ---
 
 # UNPROMPTED
