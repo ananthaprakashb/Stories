@@ -1,10 +1,14 @@
 ---
-title: "UNPROMPTED"
+title: "Eight Point Four Percent"
 chapter: 1
 chapter_title: "Eight Point Four Percent"
 language: "en"
 format: "markdown"
 status: "draft"
+subtitle: "San Ramon, California · 8:17 AM"
+mood: "future"
+scene: "San Ramon, California"
+artwork: "Unprompted.png"
 ---
 
 # UNPROMPTED
