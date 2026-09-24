@@ -19,6 +19,10 @@ themes:
   - human ambiguity
   - surveillance
 status: "draft"
+subtitle: "Paper Trail Books · 7:12 PM"
+mood: "storm"
+scene: "San Ramon, California"
+artwork: "Unprompted.png"
 ---
 
 # UNPROMPTED
