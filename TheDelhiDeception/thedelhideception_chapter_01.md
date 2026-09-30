@@ -1,3 +1,17 @@
+---
+title: "THE DELHI CONNECTION"
+chapter: 1
+chapter_title: "THE DELHI CONNECTION"
+language: "en"
+format: "markdown"
+status: "draft"
+subtitle: "San Francisco, California · 02:00 AM"
+mood: "suspence"
+scene: "San Francisco, California"
+artwork: "delhidecptionwrapper.png"
+---
+
+
 # The Delhi Deception
 
 ### By Anantha Prakash Nithiyanantham
